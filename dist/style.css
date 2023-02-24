@@ -1,0 +1,23 @@
+.heading {
+    background-color: #e8303f;
+}
+
+.displayBox {
+    flex-wrap: wrap;
+    margin: 3em auto;
+    max-width: 1000px;
+}
+
+.employeeBox {
+    border: none;
+    margin: 1em;
+    box-shadow: 4px 4px 8px rgba(49, 46, 46, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.title{
+    color: azure;
+}
