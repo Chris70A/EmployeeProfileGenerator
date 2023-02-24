@@ -8,6 +8,8 @@ a Node.js command-line application that takes in information about employees on 
 - By using a standardized template for each employee summary, you can ensure that each summary is consistent and contains all the necessary information.
 - It saves time and effort compared to manually creating the webpage, and helps ensure consistency and accuracy in the information presented. 
 
+![Profile Example](./assets/HTMLExample.png)
+
 ### What did I learn?
 
 - Create more scalable applications that follow the OOP paradigm.
@@ -18,7 +20,7 @@ a Node.js command-line application that takes in information about employees on 
 
 - Explain polymorphism through method overloading.
 
-- Implement Promise.all() to wait for multiple API calls.
+- Implement Promise.all( ) to wait for multiple API calls.
 
 - Learned how to implement the principles of Test Driven Development by using Jest
 
@@ -47,7 +49,7 @@ a Node.js command-line application that takes in information about employees on 
 In order to install this Employee Profile Generator app and test it you need to follow these steps.
 
 1. Clone the repository to your own local machine and run it from your command line. 
- - `git@github.com:Chris70A/EmployeeProfileGenerator.git`
+ `git@github.com:Chris70A/EmployeeProfileGenerator.git`
 
 2. Then, make sure that your repo includes a package.json with the required dependencies. You can create one by running ```npm init``` in your command line.
 
@@ -63,11 +65,11 @@ In order to install this Employee Profile Generator app and test it you need to 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![Walkthough](./assets/walkthrough.gif)
+
+[Full Video](https://drive.google.com/file/d/1PX677hn6w15xxrihvXEOPqlOeq6OHjVS/view)
 
 ## Technology
 
